@@ -1,0 +1,17 @@
+{
+  "graph": {
+    "name": "g",
+    "edges": [
+      {
+        "from": "a",
+        "to": "b",
+        "label": 5
+      },
+      {
+        "from": "b",
+        "to": "c",
+        "label": 10
+      }
+    ]
+  }
+}
