@@ -12,6 +12,6 @@ public class MyEdge {
   }
   
   public String toString() {
-    return(String.format("WOWOWOW<f:%s t:%s w:%d>", from, to, weight));
+    return(String.format("\n    Edge: <from:%s to:%s weight:%d>", from, to, weight));
   }
 }

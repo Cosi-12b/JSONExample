@@ -15,7 +15,7 @@ public class MyGraph {
   }
   
   public String toString() {
-    return(String.format("GRAPH: %s %s", name, edges));
+    return(String.format("Graph: %s %s", name, edges));
   }
 
 }

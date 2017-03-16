@@ -1,6 +1,5 @@
 package edu.brandeis.cs12;
 
-
 import java.io.FileNotFoundException;
 import java.io.FileReader;
 

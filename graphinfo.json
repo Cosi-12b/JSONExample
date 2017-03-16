@@ -1,6 +1,6 @@
 {
   "graph": {
-    "name": "g",
+    "name": "Big Graph",
     "edges": [
       {
         "from": "a",
